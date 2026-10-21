@@ -1,0 +1,53 @@
+{
+    "decimals": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "759e62931f78184d0ec616587a8f436c695f4e5a5e801380c2960615cba23bba096ce5322c2a571fcd50a4f81f0bd353bb010a946a70bfa5dbc7f40845e5b708"
+            }
+        ],
+        "value": 6
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "63ba371dea592d71d04f259b94d1e832507b463e7b92a6b88ae65c94a209ad5453553ba8f572df656d82888d4031b88f4ae27f7dd88e9505efb6396aed71e703"
+            }
+        ],
+        "value": "Preprod test token for the Tessera protocol by Stellaris. Dollar-referenced test asset with no monetary value."
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "06121dff0706427ae3311450583ac98a546297ba75bd43a75eaad04ea782bb5f5df4ceb14b9146db24896b70c27664f17478539e3eea74484bc5bab52c0fc309"
+            }
+        ],
+        "value": "Tessera (Preprod)"
+    },
+    "subject": "938b32e0f660dc06d3b58a20103cbe5ae1cc00531b53c7ba191d740054535241",
+    "ticker": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "be35179edb1c7ffe64e17079598e5277bf05b5fd0d83c3ed740a6871f4dde12ca8a08ee7af70e33e9fff90240789b7b13cbb9ca33bd0796fc6b0cced73180500"
+            }
+        ],
+        "value": "TSRA"
+    },
+    "url": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "05f18dce2af1599131b532afb8e864401da8d974062920133b43be5dc6db62ef341e144b2f0904c521e3ecb2c1fd1817252b28f34ef294b9ebb9ffb08c74e409"
+            }
+        ],
+        "value": "https://stellarischain.com"
+    }
+}
