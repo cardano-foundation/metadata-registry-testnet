@@ -1,0 +1,53 @@
+{
+    "decimals": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "74489d5aa4fb2481e1d6bdd369871c691d5db29b220c0e0ca45ffdef8ef858f33e7e3731cc64f1315334267941bd5dc36f1258d0123ac2570b7823764f8c220c"
+            }
+        ],
+        "value": 6
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "70b0aedeba76eb2a4ee0a2f4af42497b1c6b40d5b6508d0ae265c7fb5a1f94ef801ebbe6cd9d2642e77811f4fe0764be0a3287b3731faf05b792987f9c6d6406"
+            }
+        ],
+        "value": "Preprod test token: staked TSRA in the Tessera vault by Stellaris. Earns a share of reserve yield. No monetary value."
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "9b062bd29ac6e11151bbdc07d6ba2c01500aea04678949b7b90b454adc0db07706ac0a07580db37795c171a8bda390dd82f46984b91d14c627e6071149cc8309"
+            }
+        ],
+        "value": "Staked Tessera (Preprod)"
+    },
+    "subject": "b52a0afbc9be3fd2e587bbe7925caaaaebac982d392e8bbbe58454ac7354535241",
+    "ticker": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "d4bbb8580b2f6841eb638bad7559dd4f3b2b3eca1a429d21c4ce5f5ef9b5a167c63823310644f74923cb13f00dc35949a0fe612959744ad175ccdda13002860e"
+            }
+        ],
+        "value": "sTSRA"
+    },
+    "url": {
+        "sequenceNumber": 0,
+        "signatures": [
+            {
+                "publicKey": "d222c88ff80abf724068fc8db7cbab516b3ec87496bae87a7901c396726245b8",
+                "signature": "5af0acbd85e5bc6bfc0737092f28123c0ad14c7eae74f02ba74790af924e782164879e945e84eeca0f42c80b6778c358dcdb4c9aa74c59c3945084daa8639d0e"
+            }
+        ],
+        "value": "https://stellarischain.com"
+    }
+}
